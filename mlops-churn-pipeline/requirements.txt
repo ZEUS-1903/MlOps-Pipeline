@@ -1,0 +1,21 @@
+# ML & Data
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+optuna>=3.4.0
+pandas>=2.0.0
+numpy>=1.24.0
+joblib>=1.3.0
+
+# Experiment Tracking
+mlflow>=2.9.0
+
+# Model Serving
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.5.0
+
+# Testing
+pytest>=7.4.0
+
+# Visualization
+matplotlib>=3.8.0
