@@ -180,7 +180,3 @@ I didn't add these yet because I wanted the core pipeline to be clean and unders
 - The biggest F1 improvement came from feature engineering, not hyperparameter tuning
 - FastAPI's auto-generated docs at `/docs` are incredibly useful for testing
 - Writing tests for ML pipelines is different — you're testing distributions and ranges, not exact values
-
-## license
-
-MIT
